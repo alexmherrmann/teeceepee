@@ -1,5 +1,5 @@
 
-# A tcp test server (like tcpbin)
+# A tcp test server (like httpbin)
 
 This is being built to test a microcontroller networking library so don't expect much.
 
